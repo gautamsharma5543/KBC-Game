@@ -1,4 +1,3 @@
-package RaceProblem_Starvation;
 
 import java.util.Scanner;
 
